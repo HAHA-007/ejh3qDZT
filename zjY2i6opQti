@@ -1,6 +1,3 @@
-proxies:
-    - { name: "JP TEST 01", type: vless, server: 138.2.42.137, port: 443, uuid: 8b2fddc0-2d43-4ec9-899b-bd1f35e01fdd, network: tcp, tls: true, udp: true, servername: www.amazon.com, client-fingerprint: chrome, flow: xtls-rprx-vision, reality-opts: { public-key: 8yE65FL9cZlduCubmER4aN1M6xoeET8Q20U-YIrjVyA, short-id: afe50799 } }
-    - { name: "JP test 01", type: vless, server: 64.110.100.68, port: 443, uuid: ac8480fc-dfcc-44b1-8681-cd00ebfe1ed7, udp: true, tls: true, flow: xtls-rprx-vision, network: tcp, servername: www.amazon.com, client-fingerprint: chrome, reality-opts: { public-key: krixBWFlGAavnH-0wgZxQrtA4AKKB4evuGo6mnYp9gI, short-id: 90442e0b5812c6 } }
 
 mixed-port: 7890
 ipv6: true
